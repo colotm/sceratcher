@@ -47,5 +47,24 @@ export default [
             />
         ),
         featured: true
+    },{
+        name: (
+            <FormattedMessage
+                defaultMessage="Makey Makey"
+                description="Name for the 'Makey' extension"
+                id="gui.extension.pen.name"
+            />
+        ),
+        extensionId: 'makey',
+        iconURL: penIconURL,
+        insetIconURL: penInsetIconURL,
+        description: (
+            <FormattedMessage
+                defaultMessage="Throw site makey."
+                description="Description for the 'Pen' extension"
+                id="gui.extension.pen.description"
+            />
+        ),
+        featured: true
     }
 ];
