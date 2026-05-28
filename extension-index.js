@@ -21,7 +21,7 @@ export default [
         insetIconURL: musicInsetIconURL,
         description: (
             <FormattedMessage
-                defaultMessage="Play instruments and drums."
+                defaultMessage="Play instruments in your drums."
                 description="Description for the 'Music' extension"
                 id="gui.extension.music.description"
             />
