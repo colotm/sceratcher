@@ -18,3 +18,32 @@ show>
 hide>
   }>
   }
+{
+  
+wait 1 seconds>
+  },
+  <
+{,
+  
+stop
+  <},
+{
+  
+forever>
+  },
+  <
+{{
+  
+mouse x>
+  },
+  <
+{
+  
+mouse y
+  <},
+{
+  
+mouse down?>
+  },
+  <
+{
