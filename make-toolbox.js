@@ -9,7 +9,10 @@ when clicked flag>
 when this sprite activated
   <},
 {
-  
+  touching mouse?>
+  },
+  <
+{
 show>
   },
   <
