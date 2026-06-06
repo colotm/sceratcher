@@ -36,7 +36,13 @@ forever>
   },
   <
 {{
-  
+ delete this clone>
+  }>
+  }
+{ create clone>
+  }>
+  }
+{
 mouse x>
   },
   <
